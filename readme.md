@@ -2,4 +2,4 @@ hello github, ini adalah repository pertama saya
 ini fitur 1
 ini fitur 2
 ini fitur 3
-ini baris baru ditambahkan di github
+ini adalah baris baru ditambahkan di github
